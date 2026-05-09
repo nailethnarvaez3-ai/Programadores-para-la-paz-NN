@@ -1,0 +1,12 @@
+Saber usar la terminal es fundamental para un 
+desarrollador porque agiliza la navegación y 
+organización de archivos en proyectos grandes, 
+permite automatizar tareas repetitivas como 
+renombrar o mover cientos de archivos con un solo 
+comando, y es requisito para usar herramientas clave 
+como Git o acceder a servidores remotos por SSH 
+donde no hay interfaz gráfica. Además, da control 
+total sobre rutas, permisos y archivos ocultos, lo 
+que ayuda a entender realmente la estructura del 
+proyecto y a resolver errores que solo se ven en 
+consola.
