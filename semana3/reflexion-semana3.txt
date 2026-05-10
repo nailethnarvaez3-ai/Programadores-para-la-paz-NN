@@ -1,0 +1,6 @@
+Usar Git es importante porque mantiene un historial completo de todos 
+los cambios del proyecto, permitiendo volver a versiones anteriores si 
+algo falla, trabajar en equipo sin sobreescribir código usando ramas y 
+`merge`, y saber exactamente quién cambió qué, cuándo y por qué gracias 
+a cada `commit`. Sin ese registro, cualquier error puede costar horas de 
+trabajo y coordinar a varias personas se vuelve un caos.
