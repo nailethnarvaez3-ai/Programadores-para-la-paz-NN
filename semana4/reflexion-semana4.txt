@@ -1,0 +1,12 @@
+Que las comunidades y las iniciativas ciudadanas puedan construir sus 
+propias herramientas tecnológicas usando tecnologías abiertas como 
+http://Node.js es clave porque les da autonomía real para atender sus 
+problemas sin esperar a empresas o gobiernos. Al ser gratuito, de código 
+abierto y sin licencias, reduce costos y evita quedar atadas a 
+plataformas que pueden desaparecer o cambiar sus reglas. Además, les 
+permite crear soluciones hechas a la medida de su contexto, en su idioma 
+y con sus propias prioridades, como una app para reportar casos de 
+violencia escolar en un barrio específico. También garantiza que los 
+datos de la comunidad queden bajo su control, fortalece las capacidades 
+técnicas locales y fomenta la colaboración, porque el conocimiento se 
+comparte y mejora entre todos.
