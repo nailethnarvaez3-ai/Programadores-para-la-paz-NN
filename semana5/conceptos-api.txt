@@ -1,0 +1,16 @@
+
+¿ que hace esta ruta?
+
+1. Espera una petición `POST` a la dirección `/reporte`.
+2. Extrae el campo `mensaje` que venga en el cuerpo de la petición con `req.body.mensaje`.
+3. Responde con un JSON que dice `"estado": "Reporte recibido"` y devuelve el mismo mensaje que recibió.
+
+En pocas palabras: Es como un buzón. La gente te manda un reporte, el servidor lo lee y contesta "Ok, me llegó tu mensaje: ...".
+
+¿ para que podria servir en una aplicacion comunitaria?
+
+La ruta `/reporte` funciona como un canal de comunicación directa entre la comunidad y la 
+aplicación, permitiendo que cualquier persona envíe un mensaje para informar sobre situaciones 
+que afectan al barrio o al colectivo. Su propósito es recibir esos reportes en tiempo real y 
+confirmar que llegaron al sistema, actuando como un buzón digital que centraliza alertas, 
+denuncias o solicitudes de ayuda. Aunque en su forma básica solo devuelve el mensaje recibido,

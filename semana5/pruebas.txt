@@ -1,0 +1,6 @@
+En el primer vinculo al colocarlo en el navegador dice, servidor activo.
+
+en el segundo nos sale un mensaje para toda la comunidad que nos dice " hola comunidad"
+
+en el tercer link nos sale un mensaje personalizado con nuestro nomnre y dice : "hola naileth".
+

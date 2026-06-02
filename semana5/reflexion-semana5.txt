@@ -1,0 +1,7 @@
+La API estandariza cómo se envía la información. Si un vecino reporta un robo y otro reporta un hueco en la calle, ambos reportes llegan 
+con la misma estructura. Eso permite filtrarlos después por tipo, barrio o urgencia sin tener que leerlos uno por uno.
+
+
+También conectan a todos en tiempo real. Apenas entra un reporte de "poste caído con cables en el suelo", la API puede activar 
+notificaciones automáticas a los líderes barriales y a la cuadrilla de servicios públicos. Se evita la cadena de llamadas y que la info 
+se pierda.
