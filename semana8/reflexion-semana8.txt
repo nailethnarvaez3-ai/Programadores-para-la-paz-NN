@@ -1,0 +1,16 @@
+La seguridad digital es fundamental en plataformas tecnológicas usadas por comunidades porque 
+lo que está en juego no son solo datos, sino la confianza y la integridad de los procesos 
+participativos. Estas plataformas suelen manejar información sensible: denuncias, votaciones, 
+actas de reuniones, datos personales de líderes sociales y decisiones colectivas. Si no hay 
+seguridad, un ataque puede filtrar esa información y poner en riesgo físico o legal a quienes 
+participan. También abre la puerta a la manipulación: cuentas falsas, alteración de votos o 
+eliminación de propuestas pueden distorsionar lo que la comunidad realmente decidió. A eso se 
+suma el daño a la confianza. La gente participa solo si siente que el espacio es seguro. Una 
+brecha o un hackeo hace que los usuarios abandonen la plataforma por miedo, y sin 
+participación el proceso se desmorona. Además, estas herramientas guardan la memoria histórica 
+de la comunidad: proyectos, censos, acuerdos. Perder esos datos por falta de respaldos o por 
+un ataque significa borrar meses o años de trabajo colectivo. Por último, hay un tema legal: 
+al gestionar datos personales, las organizaciones tienen la obligación de protegerlos. 
+Incumplir puede traer sanciones y responsabilidad jurídica. En pocas palabras, sin seguridad 
+digital no hay garantía de transparencia, no hay protección para las personas, y no hay 
+continuidad para los procesos comunitarios.

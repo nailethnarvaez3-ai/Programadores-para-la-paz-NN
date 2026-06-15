@@ -1,0 +1,5 @@
+1.Moderación de contenido
+2.Respaldos automáticos de la plataforma
+3.Política de retención de datos
+4. Capacitar a los usuarios
+5. Plan de respuesta a incidentes
