@@ -1,0 +1,11 @@
+Que las plataformas tecnológicas de las comunidades sean estables y seguras en el 
+servidor es vital porque son el soporte de todo el proceso participativo. La 
+estabilidad asegura que la plataforma esté disponible cuando la comunidad la 
+necesita: sin caídas ni lentitud que impidan votar, consultar documentos o 
+participar en reuniones. También protege la memoria colectiva, porque ahí se 
+guardan actas, proyectos y censos que, si se pierden por una falla, borran meses 
+de trabajo. Por otro lado, la seguridad protege directamente a las personas. 
+Muchas comunidades manejan información sensible sobre conflictos, denuncias o 
+datos de líderes, y un servidor vulnerable puede exponerlos a riesgos físicos o 
+legales. Además, garantiza la integridad de las decisiones: impide que se alteren 
+votaciones, se creen usuarios falsos o se borren propuestas.
