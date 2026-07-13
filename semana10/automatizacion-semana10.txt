@@ -1,0 +1,18 @@
+Evento que activa el flujo:  
+Cuando un ciudadano registra un nuevo reporte en el sistema de veeduría.
+
+Acción en n8n: n8n detecta el nuevo reporte y envía una notificación automática al 
+grupo de Telegram de los veedores y coordinadores.
+
+Mensaje que se enviaría a Telegram:  
+Nuevo reporte recibido  
+Tipo: [Tipo de incidencia]  
+Barrio: [Nombre del barrio]  
+Fecha: [Fecha y hora]  
+Revisar en el sistema: [Link al reporte]
+
+Información que no debería enviarse por seguridad: Nombres completos del ciudadano 
+que reporta, número de documento de identidad, dirección exacta, número de 
+teléfono, correos, fotos con personas identificables, claves o cualquier dato 
+personal sensible. Solo se envía información general para alertar y que ingresen 
+al sistema a ver el detalle completo.

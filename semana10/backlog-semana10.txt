@@ -1,0 +1,10 @@
+
+1. Como veedor asignado quiero marcar que ya visité el lugar del reporte y subir 
+evidencia para respaldar la verificación del caso. 2. Como coordinador quiero 
+adjuntar la respuesta oficial de la entidad al reporte para que la comunidad sepa 
+qué acciones se tomaron. 3. Como líder comunitario quiero ver un mapa de calor con 
+las incidencias reportadas para identificar las zonas críticas de mi comunidad. 4. 
+Como ciudadano quiero apoyar con mi voto los reportes de mi barrio para que los 
+casos más urgentes sean atendidos primero. 5. Como ciudadano interesado quiero 
+inscribirme como voluntario veedor de mi barrio para recibir capacitación y apoyar 
+en la verificación de casos.

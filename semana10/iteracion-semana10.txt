@@ -1,0 +1,18 @@
+¿Qué 2 tareas del backlog harías primero?  1. Como veedor asignado quiero marcar 
+que ya visité el lugar del reporte y subir evidencia para respaldar la 
+verificación del caso.  2. Como coordinador quiero adjuntar la respuesta oficial 
+de la entidad al reporte para que la comunidad sepa qué acciones se tomaron.
+
+¿Por qué son las más importantes?  Porque cierran el ciclo principal de la 
+veeduría: verificar en campo que el problema existe y luego devolverle a la 
+comunidad la respuesta institucional. Sin estas 2 tareas no hay valor real, solo 
+se quedan los reportes guardados sin seguimiento.
+
+¿Qué significa para ti que una tarea esté “terminada”?  Que la funcionalidad ya 
+puede ser usada por el usuario final, fue validada y quedó documentada. No basta 
+con que el código esté listo.
+
+Definición de Terminado - DoD  
+1. Funciona según los criterios de aceptación y fue probada por al menos 1 usuario  
+2. El código fue revisado, aprobado y quedó registrado en Git con su commit  
+3. La tarea está documentada y desplegada en el ambiente de pruebas para demostración
