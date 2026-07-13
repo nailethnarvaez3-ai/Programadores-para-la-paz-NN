@@ -1,0 +1,25 @@
+Entidad: Reporte
+
+Campos principales:
+- id
+- tipo
+- descripcion
+- barrio
+- fecha_registro
+- estado
+- evidencia_url
+
+Propósito: Guardar los reportes que hace la comunidad sobre problemas en su 
+sector. Sirve para tener el registro central de cada caso y hacerle seguimiento.
+
+Entidad: Veedor
+
+Campos principales:
+- id
+- nombre
+- correo
+- telefono
+- rol
+
+Propósito: Registrar a las personas encargadas de verificar y atender los 
+reportes. Permite asignar casos y saber quién hizo qué dentro de la plataforma.

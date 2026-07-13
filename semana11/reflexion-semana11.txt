@@ -1,0 +1,10 @@
+Una plataforma tecnológica que promueve la participación ciudadana necesita una 
+base de datos porque ahí se guarda toda la información de las causas, los reportes 
+y el seguimiento.  Sin base de datos los datos se perderían y no habría historial.  
+La autenticación de usuarios es importante para saber quién está reportando o 
+apoyando cada causa.  Así se evita que personas anónimas hagan mal uso del sistema 
+y se asignan responsabilidades claras.  La protección de la información es clave 
+porque se manejan datos personales y casos de la comunidad.  Si no se protege, se 
+pueden filtrar teléfonos, direcciones o documentos.  Tener seguridad genera 
+confianza en los ciudadanos para participar.  Además, con autenticación y 
+protección se pueden restringir rutas y acciones solo a quienes deben verlas.

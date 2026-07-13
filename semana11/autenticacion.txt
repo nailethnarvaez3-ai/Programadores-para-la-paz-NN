@@ -1,0 +1,8 @@
+El login es el mecanismo que valida la identidad de un usuario para permitirle 
+entrar a la aplicación.  Gracias a esto se pueden activar funciones específicas 
+según el rol de cada persona.  Ciertas rutas se protegen porque acceden a datos 
+privados, a la administración del sistema o a procesos que no deben ser públicos.  
+Dejarlas abiertas permitiría que cualquiera consulte o cambie información 
+sensible.  Por seguridad no se deben mostrar públicamente contraseñas, números de 
+documento, teléfonos, direcciones, tokens de acceso, claves de API ni información 
+personal de la comunidad.
