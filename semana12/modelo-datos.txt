@@ -1,0 +1,19 @@
+Entidad: Causa Campos: - id: Identificador único de la 
+causa - titulo: Nombre corto de la petición - 
+descripcion: Explicación del problema o solicitud - 
+estado: Activa, Cerrada, Entregada - meta_apoyos: Número 
+mínimo de apoyos requeridos - fecha_creacion: Fecha en 
+que se creó la causa Sirve para: Guardar toda la 
+información de cada petición creada por un ciudadano. Es 
+el centro del sistema.
+
+Entidad: Apoyo Campos: - id: Identificador único del 
+apoyo - causa_id: Identificador de la causa que se está 
+apoyando - nombre: Nombre de la persona que apoya - 
+documento: Número de identificación para evitar apoyos 
+duplicados - fecha_apoyo: Fecha en que se registró el 
+apoyo Sirve para: Registrar a cada ciudadano que firma 
+una causa. Con causa_id sabemos a qué petición pertenece.
+
+Relación: Una Causa puede tener muchos Apoyos. Un Apoyo 
+pertenece a una sola Causa.

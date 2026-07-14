@@ -1,0 +1,9 @@
+1. Ana crea la petición "Arreglo urgente del parque 
+central" en el sistema y la publica. 2. La petición se 
+guarda en la base de datos y el sistema genera un enlace 
+público para compartir. 3. Los vecinos del barrio entran 
+al enlace y firman digitalmente para apoyar la causa. 4. 
+El sistema cuenta los apoyos y detecta que se alcanzaron 
+las 250 firmas requeridas. 5. El sistema genera un 
+documento PDF con la petición y las firmas para 
+entregarlo a la Alcaldía.

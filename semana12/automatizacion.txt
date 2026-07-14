@@ -1,0 +1,21 @@
+Automatización: Alerta de nueva causa con Telegram + n8n
+
+Evento que activa la automatización: Cuando un ciudadano 
+registra una nueva causa en el sistema y queda guardada 
+en la base de datos.
+
+Flujo en n8n: 1. Trigger: Nodo "Database Trigger" detecta 
+un nuevo registro en la tabla Causa. 2. Acción: Nodo 
+"Telegram" envía un mensaje al canal/grupo de 
+administradores.
+
+Mensaje que se envía:
+"Nueva causa creada en la plataforma
+Título: [titulo]
+Estado: Activa
+Ver causa: [enlace_publico]"
+
+Información que no debe enviarse por seguridad: Cédulas, 
+teléfonos, correos, direcciones, datos personales del 
+creador, comentarios privados o cualquier información 
+sensible de los ciudadanos que apoyan.
